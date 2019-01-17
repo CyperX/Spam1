@@ -7,7 +7,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("535232605705207828")
 setInterval(function() {
 channel.send(`CyperX Is One™>■`);
-}, 30)
+}, 2500)
 })
 
 client.login("NTEwNzE3MzAxMzA2MTYzMjAw.DyFLBA.9pDbDyYwu6csuMU98OABRs3t5lw");
